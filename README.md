@@ -4,6 +4,12 @@ A responsive Expense Tracker web application built using HTML, CSS, and JavaScri
 
 ---
 
+## 🚀 Live Demo
+
+🔗 https://expense-tracker-ivory-phi-45.vercel.app/
+
+---
+
 ## 📸 Screenshots
 
 ### Home Screen
